@@ -20,6 +20,6 @@ public class Dialog {
     }
 
     public void hello() {
-        System.out.println("Hello");
+        System.out.println("Hello, humen");
     }
 }
