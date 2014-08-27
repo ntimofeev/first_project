@@ -18,4 +18,8 @@ public class Dialog {
             System.out.println("Input ERROR");
         }
     }
+
+    public void hello() {
+        System.out.println("Hello");
+    }
 }

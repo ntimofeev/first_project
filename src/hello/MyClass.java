@@ -5,6 +5,7 @@ package hello;
 public class MyClass {
     public static void main(String[] args) {
         Dialog dialog = new Dialog();
+        dialog.hello();
         dialog.write();
     }
 }
