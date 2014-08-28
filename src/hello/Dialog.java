@@ -21,6 +21,5 @@ public class Dialog {
 
     public void hello() {
         System.out.println("Hello");
-        int a = 5;
     }
 }
